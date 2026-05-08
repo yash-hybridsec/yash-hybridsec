@@ -13,6 +13,10 @@
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-hybridsec&show_icons=true&theme=radical)
+
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-hybridsec)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/xX8N7ZQ)
 <!--
 **yash-hybridsec/yash-hybridsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
